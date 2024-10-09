@@ -10,5 +10,6 @@ In order to determine the price of each SpaceX Falcon 9 rocket launch, we will a
 of a successful landing of the Falcon 9 first stage.
 
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/landing\_1.gif)
+
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/crash.gif)
 
