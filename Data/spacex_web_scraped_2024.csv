@@ -1,0 +1,431 @@
+Payload,Orbit,Customer,Flight_No.,Date,Time,Version_Booster,Launch_site,Payload_mass,Launch_outcome,Booster_landing,Class
+Starlink,LEO,SpaceX,78,7 January 2020,02:19:21,F9 B5,CCSFS,"15,600 kg","Success
+",Success,1
+Crew Dragon in-flight abort test,Sub-orbital,NASA,79,19 January 2020,15:30,F9 B5,KSC,"12,050 kg","Success
+","No attempt
+",0
+Starlink,LEO,SpaceX,80,29 January 2020,14:07,F9 B5,CCSFS,"15,600 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,81,17 February 2020,15:05,F9 B5,CCSFS,"15,600 kg","Success
+",Failure,0
+SpaceX CRS-20,LEO,NASA,82,7 March 2020,04:50,F9 B5,CCSFS,"1,977 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,83,18 March 2020,12:16,F9 B5,KSC,"15,600 kg","Success
+",Failure,0
+Starlink,LEO,SpaceX,84,22 April 2020,19:30,F9 B5,KSC,"15,600 kg","Success
+",Success,1
+Crew Dragon Demo-2,LEO,NASA,85,30 May 2020,19:22,F9 B5B1058.1,KSC,"12,530 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,86,4 June 2020,01:25,F9 B5,CCSFS,"15,600 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,87,13 June 2020,09:21,F9 B5,CCSFS,"15,410 kg","Success
+",Success,1
+GPS III,MEO,U.S. Space Force,88,30 June 2020,20:10:46,F9 B5,CCSFS,"4,311 kg","Success
+",Success,1
+ANASIS-II,GTO,Republic of Korea Army,89,20 July 2020,21:30,F9 B5B1058.2,CCSFS,"5,000–6,000 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,90,7 August 2020,05:12,F9 B5,KSC,"14,932 kg","Success
+",Success,1
+Starlink,LEO,Various,91,18 August 2020,14:31,F9 B5B1049.6,CCSFS,"~15,440 kg","Success
+",Success,1
+SAOCOM 1B,SSO,SpaceX,92,30 August 2020,23:18,F9 B5,CCSFS,"3,130 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,93,3 September 2020,12:46:14,F9 B5B1060.2,KSC,"15,600 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,94,6 October 2020,11:29:34,F9 B5B1058.3,KSC,"15,600 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,95,18 October 2020,12:25:57,F9 B5B1051.6,KSC,"15,600 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,96,24 October 2020,15:31:34,F9 B5,CCSFS,"15,600 kg","Success
+",Success,1
+GPS III,MEO,U.S. Space Force,97,5 November 2020,23:24:23,F9 B5,CCSFS,"4,311 kg","Success
+",Success,1
+Crew-1,LEO,NASA,98,16 November 2020,00:27,F9 B5B1061.1,KSC,"~12,500 kg","Success
+",Success,1
+Sentinel-6 Michael Freilich (Jason-CS A),LEO,SpaceX,99,21 November 2020,17:17:08,F9 B5,VSFB,"1,192 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,100,25 November 2020,02:13,F9 B5B1049.7,CCSFS,"15,600 kg","Success
+",Success,1
+SpaceX CRS-21,LEO,NASA,101,6 December 2020,16:17:08,F9 B5B1058.4,KSC,"2,972 kg","Success
+",Success,1
+SXM-7,GTO,SpaceX,102,13 December 2020,17:30:00,F9 B5,CCSFS,"7,000 kg","Success
+",Success,1
+NROL-108,LEO,NRO,103,19 December 2020,14:00:00,F9 B5,KSC,C,"Success
+",Success,1
+Türksat 5A,GTO,Turksat,104,8 January 2021,02:15,F9 B5,CCSFS,"3,500 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,105,20 January 2021,13:02:22,F9 B5B1051.8,KSC,"15,600 kg","Success
+",Success,1
+,SSO,Various,106,24 January 2021,15:00,F9 B5B1058.5,CCSFS,"~5,000 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,107,4 February 2021,06:19,F9 B5B1060.5,CCSFS,"15,600 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,108,16 February 2021,03:59:37,F9 B5,CCSFS,"15,600 kg","Success
+",Failure,0
+Starlink,LEO,SpaceX,109,4 March 2021,08:24:54,F9 B5B1049.8,KSC,"15,600 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,110,11 March 2021,08:13:29,F9 B5B1058.6,CCSFS,"15,600 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,111,14 March 2021,10:01:26,F9 B5,KSC,"15,600 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,112,24 March 2021,08:28:24,F9 B5B1060.6,CCSFS,"15,600 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,113,7 April 2021,16:34:18,F9 B5,CCSFS,"15,600 kg","Success
+",Success,1
+Crew-2,LEO,NASA,114,23 April 2021,09:49:02,F9 B5B1061.2,KSC,"~13,000 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,115,29 April 2021,03:44:30,F9 B5B1060.7,CCSFS,"15,600 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,116,4 May 2021,19:01:07,F9 B5B1049.9,KSC,"15,600 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,117,9 May 2021,06:42:45,F9 B5B1051.10,CCSFS,"15,600 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,118,15 May 2021,22:56,F9 B5,KSC,"~14,000 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,119,26 May 2021,18:59:35,F9 B5,CCSFS,"15,600 kg","Success
+",Success,1
+SpaceX CRS-22,LEO,NASA,120,3 June 2021,17:29:17,F9 B5B1067.1,KSC,"3,328 kg","Success
+",Success,1
+SXM-8,GTO,SpaceX,121,6 June 2021,04:26,F9 B5,CCSFS,"7,000 kg","Success
+",Success,1
+USA-319,MEO,U.S. Space Force,122,17 June 2021,16:09:35,F9 B5B1062.2,CCSFS,"4,331 kg","Success
+",Success,1
+,SSO,Various,123,30 June 2021,19:31,F9 B5,CCSFS,U,"Success
+",Success,1
+SpaceX CRS-23,LEO,NASA,124,29 August 2021,07:14:49,F9 B5,KSC,"~2,200 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,125,14 September 2021,03:55:50,F9 B5B1049.10,VSFB,"~13,260 kg","Success
+",Success,1
+Inspiration4,LEO,SpaceX,126,16 September 2021,00:02:56,F9 B5B1062.3,KSC,"~12,519 kg","Success
+",Success,1
+Crew-3,LEO,NASA,127,11 November 2021,02:03:31,F9 B5B1067.2,KSC,"~13,000 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,128,13 November 2021,12:19,F9 B5B1058.9,CCSFS,"~15,635 kg","Success
+",Success,1
+Double Asteroid Redirection Test (DART),Heliocentric,NASA,129,24 November 2021,06:21,F9 B5B1063.3,VSFB,624 kg,"Success
+",Success,1
+Starlink,LEO,SpaceX,130,2 December 2021,23:12,F9 B5B1060.9,CCSFS,"~14,500 kg","Success
+",Success,1
+Imaging X-ray Polarimetry Explorer,LEO,NASA,131,9 December 2021,06:00,F9 B5,KSC,325 kg,"Success
+",Success,1
+Starlink,LEO,SpaceX,132,18 December 2021,12:41,F9 B5,VSFB,"15,600 kg","Success
+",Success,1
+Türksat 5B,GTO,Turksat,133,19 December 2021,03:58,F9 B5,CCSFS,"4,500 kg","Success
+",Success,1
+SpaceX CRS-24,LEO,NASA,134,21 December 2021,10:06,F9 B5,KSC,"2,989 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,135,6 January 2022,21:49,F9 B5,KSC,"~14,500 kg","Success
+",Success,1
+,SSO,Various,136,13 January 2022,15:25:38,F9 B5,CCSFS,U,"Success
+",Success,1
+Starlink,LEO,SpaceX,137,19 January 2022,02:02:40,F9 B5,KSC,"~14,500 kg","Success
+",Success,1
+CSG-2,SSO,SpaceX,138,31 January 2022,23:11,F9 B5,CCSFS,"2,205 kg","Success
+",Success,1
+NROL-87,SSO,NRO,139,2 February 2022,20:27,F9 B5,VSFB,C,Success,Success,1
+Starlink,LEO,SpaceX,140,3 February 2022,18:13,F9 B5,KSC,"~14,500 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,141,21 February 2022,14:44,F9 B5,CCSFS,"~13,600 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,142,25 February 2022,17:12,F9 B5,VSFB,"~14,750 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,143,3 March 2022,14:25,F9 B5,KSC,"~13,900 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,144,9 March 2022,13:45,F9 B5B1052.4,CCSFS,"~14,160 kg","Success
+",Success,1
+Starlink,LEO,SpaceX,145,19 March 2022,04:42,F9 B5,CCSFS,"~16,250 kg","Success
+",Success,1
+,SSO,Various,146,1 April 2022,16:24,F9 B5,CCSFS,U,"Success
+",Success,1
+Axiom-1,LEO,SpaceX,147,8 April 2022,15:17:11,F9 B5,KSC,"~13,000 kg","Success
+",Success,1
+NROL-85,LEO,NRO,148,17 April 2022,13:13:12,F9 B5,VSFB,C,Success,Success,1
+Starlink Group 4-14,LEO,SpaceX,149,21 April 2022,17:51,F9 B5,CCSFS,"~16,250 kg","Success
+",Success,1
+Crew-4,LEO,NASA,150,27 April 2022,07:52,F9 B5B1067.4,KSC,"~13,000 kg","Success
+",Success,1
+Starlink Group 4-16,LEO,SpaceX,151,29 April 2022,21:27,F9 B5,CCSFS,"~16,250 kg","Success
+",Success,1
+Starlink Group 4-17,LEO,SpaceX,152,6 May 2022,09:46,F9 B5,KSC,"~16,250 kg","Success
+",Success,1
+Starlink Group 4-13,LEO,SpaceX,153,13 May 2022,22:07,F9 B5,VSFB,"~16,250 kg","Success
+",Success,1
+Starlink Group 4-15,LEO,SpaceX,154,14 May 2022,20:40,F9 B5,CCSFS,"~16,250 kg","Success
+",Success,1
+Starlink Group 4-18,LEO,SpaceX,155,18 May 2022,10:59,F9 B5,KSC,"~16,250 kg","Success
+",Success,1
+,SSO,SpaceX,156,25 May 2022,18:35,F9 B5B1061.8,CCSFS,U,"Success
+",Success,1
+Nilesat-301,GTO,Various,157,8 June 2022,21:03,F9 B5B1062.7,CCSFS,"~4,100 kg","Success
+",Success,1
+Starlink Group 4-19,LEO,SpaceX,158,17 June 2022,16:09,F9 B5B1060.13,KSC,"~16,250 kg","Success
+",Success,1
+SARah 1,SSO,SpaceX,159,18 June 2022,14:19,F9 B5,VSFB,"~4,000 kg",Success,Success,1
+Globalstar-2 M087 (FM15),LEO,SpaceX,160,19 June 2022,04:27,F9 B5B1061.9,CCSFS,~700 kg,"Success
+",Success,1
+SES-22,GTO,SpaceX,161,29 June 2022,21:04,F9 B5B1073.2,CCSFS,"~3,500 kg","Success
+",Success,1
+Starlink Group 4-21,LEO,SpaceX,162,7 July 2022,13:11,F9 B5B1058.13,CCSFS,"~16,250 kg","Success
+",Success,1
+Starlink Group 3-1,SSO,SpaceX,163,11 July 2022,01:39,F9 B5,VSFB,"~14,100 kg","Success
+",Success,1
+SpaceX CRS-25,LEO,NASA,164,15 July 2022,00:44:22,F9 B5,KSC,"2,668 kg","Success
+",Success,1
+Starlink Group 4-22,LEO,SpaceX,165,17 July 2022,14:20,F9 B5B1051.13,CCSFS,"~16,250 kg","Success
+",Success,1
+Starlink Group 3-2,SSO,SpaceX,166,22 July 2022,17:39,F9 B5,VSFB,"~14,100 kg","Success
+",Success,1
+Starlink Group 4-25,LEO,SpaceX,167,24 July 2022,13:38,F9 B5,KSC,"~16,250 kg","Success
+",Success,1
+Danuri (Korea Pathfinder Lunar Orbiter),Ballistic lunar transfer (BLT),SpaceX,168,4 August 2022,23:08,F9 B5,CCSFS,~679 kg,"Success
+",Success,1
+Starlink Group 4-26,LEO,SpaceX,169,10 August 2022,02:14,F9 B5B1073.3,KSC,"~16,000 kg","Success
+",Success,1
+Starlink Group 3-3,SSO,SpaceX,170,12 August 2022,21:40:20,F9 B5,VSFB,"~14,100 kg","Success
+",Success,1
+Starlink Group 4-27,LEO,SpaceX,171,19 August 2022,19:21:20,F9 B5,CCSFS,"~16,250 kg","Success
+",Success,1
+Starlink Group 4-23,LEO,SpaceX,172,28 August 2022,03:41,F9 B5B1069.2,CCSFS,"~16,700 kg","Success
+",Success,1
+Starlink Group 3-4,SSO,SpaceX,173,31 August 2022,05:40,F9 B5,VSFB,"~14,200 kg","Success
+",Success,1
+Starlink Group 4-20,LEO,SpaceX,174,5 September 2022,02:09,F9 B5,CCSFS,"~16,000 kg","Success
+",Success,1
+Starlink Group 4-2,LEO,SpaceX,175,11 September 2022,01:20,F9 B5,KSC,"~11,938 kg","Success
+",Success,1
+Starlink Group 4-34,LEO,SpaceX,176,19 September 2022,00:18,F9 B5B1067.6,CCSFS,"~16,700 kg","Success
+",Success,1
+Starlink Group 4-35,LEO,SpaceX,177,24 September 2022,23:32,F9 B5B1073.4,CCSFS,"~16,100 kg","Success
+",Success,1
+Crew-5,LEO,NASA,178,5 October 2022,16:00,F9 B5,KSC,"~13,000 kg","Success
+",Success,1
+Starlink Group 4-29,LEO,SpaceX,179,5 October 2022,23:10,F9 B5,VSFB,"~16,100 kg","Success
+",Success,1
+Galaxy 33 and Galaxy 34,GTO,SpaceX,180,8 October 2022,23:05,F9 B5B1060.14,CCSFS,"7,350 kg","Success
+",Success,1
+Hotbird 13F,GTO,Various,181,15 October 2022,05:22,F9 B5,CCSFS,"~4,500 kg","Success
+",Success,1
+Starlink Group 4-36,LEO,SpaceX,182,20 October 2022,14:50,F9 B5B1062.10,CCSFS,"~16,700 kg","Success
+",Success,1
+Starlink Group 4-31,LEO,SpaceX,183,28 October 2022,01:14:10,F9 B5,VSFB,"~16,400 kg","Success
+",Success,1
+Hotbird 13G,GTO,SpaceX,184,3 November 2022,05:22,F9 B5,CCSFS,"~4,500 kg","Success
+",Success,1
+Galaxy 31 and Galaxy 32,GTO,SpaceX,185,12 November 2022,16:06,F9 B5,CCSFS,"~6,600 kg","Success
+","No attempt
+",0
+Eutelsat 10B,GTO,SpaceX,186,23 November 2022,02:57,F9 B5B1049.11,CCSFS,"5,500 kg","Success
+","No attempt
+",0
+SpaceX CRS-26,LEO,NASA,187,26 November 2022,19:20,F9 B5,KSC,"3,528 kg","Success
+",Success,1
+OneWeb,Polar,SpaceX,188,8 December 2022,22:27,F9 B5,KSC,"6,000 kg","Success
+",Success,1
+Hakuto-R Mission 1,Ballistic lunar transfer (BLT),Various,189,11 December 2022,07:38,F9 B5 ,CCSFS,"~1,000 kg","Success
+",Success,1
+Surface Water and Ocean Topography,LEO,NASA,190,16 December 2022,11:46,F9 B5,VSFB,"~2,200 kg","Success
+",Success,1
+O3b mPOWER,MEO,SpaceX,191,16 December 2022,22:48,F9 B5,CCSFS,"~4,100 kg","Success
+",Success,1
+Starlink Group 4-37,LEO,SpaceX,192,17 December 2022,21:32,F9 B5,KSC,"~16,700 kg","Success
+",Success,1
+Starlink Group 5-1,LEO,SpaceX,193,28 December 2022,09:34,F9 B5,CCSFS,"~16,700 kg","Success
+",Success,1
+EROS-C3,Retrograde,SpaceX,194,30 December 2022,07:38,F9 B5,VSFB,~400 kg,"Success
+",Success,1
+,SSO,SpaceX,195,3 January 2023,14:56,F9 B5B1060.15,CCSFS,U,"Success
+",Success,1
+OneWeb,Polar,SpaceX,196,10 January 2023,04:50,F9 B5,CCSFS,"6,000 kg","Success
+",Success,1
+USA-343,MEO,SpaceX,197,18 January 2023,12:24,F9 B5,CCSFS,"4,352 kg","Success
+",Success,1
+Starlink Group 2-4,LEO,SpaceX,198,19 January 2023,15:43,F9 B5,VSFB,"15,000 kg","Success
+",Success,1
+Starlink Group 5-2,LEO,SpaceX,199,26 January 2023,09:32,F9 B5,CCSFS,"~17,400 kg","Success
+",Success,1
+Starlink Group 2-6,LEO,SpaceX,200,31 January 2023,16:15,F9 B5B1071.7,VSFB,"~15,200 kg","Success
+",Success,1
+Starlink Group 5-3,LEO,SpaceX,201,2 February 2023,07:58,F9 B5,KSC,"16,500 kg","Success
+",Success,1
+Amazonas Nexus,GTO,SpaceX,202,7 February 2023,01:32,F9 B5B1073.6,CCSFS,"4,146 kg","Success
+",Success,1
+Starlink Group 5-4,LEO,SpaceX,203,12 February 2023,05:10,F9 B5B1062.12,CCSFS,"17,100 kg","Success
+",Success,1
+Starlink Group 2-5,LEO,SpaceX,204,17 February 2023,19:12,F9 B5B1063.9,VSFB,"15,900 kg","Success
+",Success,1
+Inmarsat-6 F2,GTO,SpaceX,205,18 February 2023,03:59,F9 B5B1077.3,CCSFS,"5,470 kg","Success
+",Success,1
+Starlink Group 6-1,LEO,SpaceX,206,27 February 2023,23:13,F9 B5B1076.3,CCSFS,"~16,900 kg","Success
+",Success,1
+Crew-6,LEO,SpaceX,207,2 March 2023,05:34,F9 B5,KSC,"~13,000 kg","Success
+",Success,1
+Starlink Group 2-7,LEO,SpaceX,208,3 March 2023,18:38,F9 B5,VSFB,"15,900 kg","Success
+",Success,1
+OneWeb #17,LEO,SpaceX,209,9 March 2023,19:13,F9 B5,CCSFS,"6,000 kg","Success
+",Success,1
+SpaceX CRS-27,LEO,SpaceX,210,15 March 2023,00:30,F9 B5B1073.7,KSC,"2,852 kg","Success
+",Success,1
+Starlink Group 2-8,LEO,SpaceX,211,17 March 2023,19:26,F9 B5,VSFB,"~16,200 kg","Success
+",Success,1
+SES-18 and SES-19,GTO,SpaceX,212,17 March 2023,23:38,F9 B5,CCSFS,"~7,000 kg","Success
+",Success,1
+Starlink Group 5-5,LEO,SpaceX,213,24 March 2023,15:43,F9 B5,CCSFS,"~17,400 kg","Success
+",Success,1
+Starlink Group 5-10,LEO,SpaceX,214,29 March 2023,20:01,F9 B5,CCSFS,"~17,400 kg","Success
+",Success,1
+Transport and Tracking Layer (Tranche 0A),LEO,SpaceX,215,2 April 2023,14:29,F9 B5,VSFB,U,"Success
+",Success,1
+Intelsat 40e,GTO,SpaceX,216,7 April 2023,04:30,F9 B5,CCSFS,"~5,588 kg","Success
+",Success,1
+Transporter-7: (51 payloads Smallsat Rideshare),SSO,SpaceX,217,15 April 2023,06:47,F9 B5,VSFB,U,"Success
+",Success,1
+Starlink Group 6-2,LEO,SpaceX,218,19 April 2023,14:31,F9 B5,CCSFS,"~16,900 kg","Success
+",Success,1
+Starlink Group 3-5,SSO,SpaceX,219,27 April 2023,13:40,F9 B5,VSFB,"~14,100 kg","Success
+",Success,1
+O3b mPOWER,MEO,SpaceX,220,28 April 2023,22:12,F9 B5B1078.2,CCSFS,"~4,100 kg","Success
+",Success,1
+Starlink Group 5-6,LEO,SpaceX,221,4 May 2023,07:31,F9 B5B1069.7,CCSFS,"~17,400 kg","Success
+",Success,1
+Starlink Group 2-9,LEO,SpaceX,222,10 May 2023,20:09,F9 B5B1075.3,VSFB,"15,900 kg","Success
+",Success,1
+Starlink Group 5-9,LEO,SpaceX,223,14 May 2023,05:03,F9 B5,CCSFS,"~17,400 kg","Success
+",Success,1
+Starlink Group 6-3,LEO,SpaceX,224,19 May 2023,06:19,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+Iridium-NEXT,Polar,SpaceX,225,20 May 2023,13:16,F9 B5,VSFB,"~6,600 kg","Success
+",Success,1
+Ax-2,LEO,SpaceX,226,21 May 2023,21:37,F9 B5,KSC,"~13,000 kg","Success
+",Success,1
+ArabSat 7B,GTO,SpaceX,227,27 May 2023,04:30,F9 B5,CCSFS,"~4,500 kg","Success
+",Success,1
+Starlink Group 2-10,LEO,SpaceX,228,31 May 2023,06:02,F9 B5,VSFB,"~16,400 kg","Success
+",Success,1
+Starlink Group 6-4,LEO,SpaceX,229,4 June 2023,12:20,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+SpaceX CRS-28,LEO,SpaceX,230,5 June 2023,15:47,F9 B5B1077.5,KSC,"~9,525 kg","Success
+",Success,1
+Starlink Group 5-11,LEO,SpaceX,231,12 June 2023,07:10,F9 B5,CCSFS,"~16,400 kg","Success
+",Success,1
+,SSO,SpaceX,232,12 June 2023,21:35,F9 B5,VSFB,U,"Success
+",Success,1
+SATRIA,GTO,SpaceX,233,18 June 2023,22:21,F9 B5B1067.12,CCSFS,"~4,580 kg","Success
+",Success,1
+Starlink Group 5-7,LEO,SpaceX,234,22 June 2023,07:19,F9 B5B1075.4,VSFB,"~14,500 kg","Success
+",Success,1
+Starlink Group 5-12,LEO,SpaceX,235,23 June 2023,15:35,F9 B5,CCSFS,"~17,400 kg","Success
+",Success,1
+Euclid,,SpaceX,236,1 July 2023,15:12,F9 B5,CCSFS,"~2,160 kg","Success
+",Success,1
+Starlink Group 5-13,LEO,SpaceX,237,7 July 2023,19:29,F9 B5B1063.12,VSFB,"~14,900 kg","Success
+",Success,1
+Starlink Group 6-5,LEO,SpaceX,238,10 July 2023,03:58,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+Starlink Group 5-15,LEO,SpaceX,239,16 July 2023,03:50,F9 B5B1060.16,CCSFS,"~16,700 kg","Success
+",Success,1
+Starlink Group 6-15,LEO,SpaceX,240,20 July 2023,04:09,F9 B5,VSFB,"~12,000 kg","Success
+",Success,1
+Starlink Group 6-6,LEO,SpaceX,241,24 July 2023,00:50,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+Starlink Group 6-7,LEO,SpaceX,242,28 July 2023,04:01,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+Galaxy 37,GTO,SpaceX,243,3 August 2023,05:00,F9 B5,CCSFS,"~5,063 kg","Success
+",Success,1
+Starlink Group 6-8,LEO,SpaceX,244,7 August 2023,02:41,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+Starlink Group 6-20,LEO,SpaceX,245,8 August 2023,03:57,F9 B5,VSFB,"~12,000 kg","Success
+",Success,1
+Starlink Group 6-9,LEO,SpaceX,246,11 August 2023,05:17,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+Starlink Group 6-10,LEO,SpaceX,247,17 August 2023,03:36,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+Starlink Group 7-1,LEO,SpaceX,248,22 August 2023,09:37,F9 B5,VSFB,"~16,800 kg","Success
+",Success,1
+Crew-7,LEO,SpaceX,249,26 August 2023,07:27,F9 B5,KSC,"~13,000 kg","Success
+",Success,1
+Starlink Group 6-11,LEO,SpaceX,250,27 August 2023,01:05,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+Starlink Group 6-13,LEO,SpaceX,251,1 September 2023,02:21,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+Transport and Tracking Layer (Tranche 0B),LEO,SpaceX,252,2 September 2023,[617],F9 B5,VSFB,U,"Success
+",Success,1
+Starlink Group 6-12,LEO,SpaceX,253,4 September 2023,02:47,F9 B5,KSC,"~16,800 kg","Success
+",Success,1
+Starlink Group 6-14,LEO,SpaceX,254,9 September 2023,03:12,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+Starlink Group 7-2,LEO,SpaceX,255,12 September 2023,06:57,F9 B5,VSFB,"~16,800 kg","Success
+",Success,1
+Starlink Group 6-16,LEO,SpaceX,256,16 September 2023,03:38,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+Starlink Group 6-17,LEO,SpaceX,257,20 September 2023,03:38,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+Starlink Group 6-18,LEO,SpaceX,258,24 September 2023,03:38,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+Starlink Group 7-3,LEO,SpaceX,259,25 September 2023,08:48,F9 B5,VSFB,"~16,800 kg","Success
+",Success,1
+Starlink Group 6-19,LEO,SpaceX,260,30 September 2023,02:00,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+Starlink Group 6-21,LEO,SpaceX,261,5 October 2023,05:36,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+Starlink Group 7-4,LEO,SpaceX,262,9 October 2023,07:23,F9 B5,VSFB,"~16,800 kg","Success
+",Success,1
+Starlink Group 6-22,LEO,SpaceX,263,13 October 2023,23:01,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+Starlink Group 6-23,LEO,SpaceX,264,18 October 2023,00:39,F9 B5,CCSFS,"~17,600 kg","Success
+",Success,1
+Starlink Group 7-5,LEO,SpaceX,265,21 October 2023,08:23,F9 B5,VSFB,"~16,800 kg","Success
+",Success,1
+Starlink Group 6-24,LEO,SpaceX,266,22 October 2023,02:17,F9 B5,CCSFS,"~18,400 kg","Success
+",Success,1
+Starlink Group 7-6,LEO,SpaceX,267,29 October 2023,09:00,F9 B5,VSFB,"~17,600 kg","Success
+",Success,1
+Starlink Group 6-25,LEO,SpaceX,268,30 October 2023,23:20,F9 B5,CCSFS,"~18,400 kg","Success
+",Success,1
+Starlink Group 6-26,LEO,SpaceX,269,4 November 2023,00:37,F9 B5,CCSFS,"~18,400 kg","Success
+",Success,1
+Starlink Group 6-27,LEO,SpaceX,270,8 November 2023,05:05,F9 B5,CCSFS,"~18,400 kg","Success
+",Success,1
+SpaceX CRS-29,LEO,SpaceX,271,10 November 2023,01:28,F9 B5,KSC,"~9,525 kg","Success
+",Success,1
+,SSO,SpaceX,272,11 November 2023,18:49,F9 B5,VSFB,U,"Success
+",Success,1
+O3b mPOWER,MEO,SpaceX,273,12 November 2023,21:08,F9 B5,CCSFS,"~4,100 kg","Success
+",Success,1
+Starlink Group 6-28,LEO,SpaceX,274,18 November 2023,05:05,F9 B5,CCSFS,"~18,400 kg","Success
+",Success,1
+Starlink Group 7-7,LEO,SpaceX,275,20 November 2023,10:30,F9 B5,VSFB,"~17,600 kg","Success
+",Success,1
+Starlink Group 6-29,LEO,SpaceX,276,22 November 2023,07:47,F9 B5,CCSFS,"~18,400 kg","Success
+",Success,1
+Starlink Group 6-30,LEO,SpaceX,277,28 November 2023,04:20,F9 B5,CCSFS,"~18,400 kg","Success
+",Success,1
+[657],SSO,SpaceX,278,1 December 2023,18:19,F9 B5,VSFB,~800 kg,"Success
+",Success,1
+Starlink Group 6-31,LEO,SpaceX,279,3 December 2023,04:00,F9 B5,CCSFS,"~18,400 kg","Success
+",Success,1
+Starlink Group 6-33,LEO,SpaceX,280,7 December 2023,05:07,F9 B5,CCSFS,"~18,400 kg","Success
+",Success,1
+Starlink Group 7-8,LEO,SpaceX,281,8 December 2023,08:03,F9 B5,VSFB,"~17,600 kg","Success
+",Success,1
+Starlink Group 6-34,LEO,SpaceX,282,19 December 2023,04:01,F9 B5,CCSFS,"~18,400 kg","Success
+",Success,1
+Starlink Group 6-32,LEO,SpaceX,283,23 December 2023,05:33,F9 B5,CCSFS,"~18,400 kg","Success
+",Success,1
+SARah,SSO,SpaceX,284,24 December 2023,13:11,F9 B5,VSFB,"~3,600 kg","Success
+",Success,1
+Starlink Group 6-36,LEO,SpaceX,285,29 December 2023,04:01,F9 B5,CCSFS,"~18,400 kg","Success
+",Success,1
+Starlink Group 7-9,LEO,SpaceX,286,3 January 2024,03:44,F9 B5,VSFB,">16,800 kg","Success
+",Success,1
+Ovzon-3,GTO,SpaceX,287,3 January 2024,23:04,F9 B5,CCSFS,"1,800 kg","Success
+",Success,1
+Starlink Group 6-35,LEO,SpaceX,288,7 January 2024,22:35,F9 B5,CCSFS,"~18,400 kg","Success
+",Success,1
+Starlink Group 7-10,LEO,SpaceX,289,14 January 2024,08:59,F9 B5,VSFB,"~17,600 kg","Success
+",Success,1
+Starlink Group 6-37,LEO,SpaceX,290,15 January 2024,01:52,F9 B5,CCSFS,"~18,400 kg","Success
+",Success,1
+Ax-3,LEO,SpaceX,291,18 January 2024,21:49,F9 B5,KSC,"~13,000 kg","Success
+",Success,1
+Starlink Group 7-11,LEO,SpaceX,292,24 January 2024,00:35,F9 B5,VSFB,"~17,600 kg","Success
+",Success,1
