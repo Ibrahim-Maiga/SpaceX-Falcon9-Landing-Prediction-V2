@@ -1,5 +1,3 @@
-![](https://drive.google.com/file/d/161dmQiVwIJ8GirjM7QUgUtShIlM4ZX-6/view)
-
 ## Acknowledgments
 This project is based on [IBM Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone), created by [Joseph Santarcangelo](https://www.linkedin.com/in/joseph-s-50398b136/), [Yan Luo](https://www.linkedin.com/in/yan-luo-96288783/), and [Nayef Abou Tayoun](https://www.linkedin.com/in/nayefaboutayoun/)
 
@@ -22,4 +20,6 @@ of a successful landing of the Falcon 9 first stage.
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/landing\_1.gif)
 
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/crash.gif)
+
+![](https://drive.google.com/file/d/161dmQiVwIJ8GirjM7QUgUtShIlM4ZX-6/view)
 
